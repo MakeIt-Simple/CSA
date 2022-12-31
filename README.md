@@ -11,3 +11,23 @@ This repository will contain all CSA study material
 | CONTRIBUTORS |
 | --- |
 | Shruti Bhalodia |
+
+## Maintainers Guideline 👨‍💻
+1. Make sure you follow certain naming convension mentioned below
+2. Make meaningful commits so we can have proper version control
+3. Please don't add  .pdf  in name to avoid recursion 😂
+
+WEEKLY NOTES:-<br>
+SUB_WEEK_WEEKNO_Prof.NAME
+<br>ex:-
+```
+CSA_WEEK_1,2_Prof.NF
+```
+
+SESSIONAL NOTES:-<br>
+SUB_SESSIONAL_SESSIONALNO_Prof.NAME
+<br>ex:-
+
+```
+CSA_SESSIONAL_1_Prof.NF
+```
