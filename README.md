@@ -9,6 +9,9 @@ This repository will contain all CSA study material
 | 1| 3| SSS|[link](./CSA_WEEK_3_Prof.SSS.pdf)| Shruti Bhalodia |
 | 1|SESSIONAL 1| NF|[link](./CSA_SESSIONAL_1_Prof.NF.pdf)|Shruti Bhalodia|
 | 2| 1,2| SSS|[link](./CSA_SESSIONAL_2_WEEK_1,2_Prof.SSS.pdf.pdf)|Shruti Bhalodia|
+| 2| 3,4| SSS|[link](./CSA_SESSIONAL_2_WEEK_3,4_PROF.SSS.pdf)|Shruti Bhalodia|
+
+
 ## Special Thanks 🙏
 | CONTRIBUTORS |
 | --- |
